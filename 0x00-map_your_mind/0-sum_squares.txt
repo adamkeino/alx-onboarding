@@ -1,0 +1,4 @@
+-Take input from user and store it in variabler num1
+and num2.
+-square the inputs and store the new values
+-output the sum of the squares of the input
