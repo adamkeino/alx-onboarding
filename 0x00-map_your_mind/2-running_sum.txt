@@ -1,0 +1,8 @@
+-Initialize a running counter that will keep track of
+user input and summing them up. Initialize it to 0 value
+-Initiate a while loop that checks whether the input
+from user is negative, if yes, it exits and displays
+the accumulated sum
+-Take input from user
+-Add user input to counter value and loop back
+checking condition. 
