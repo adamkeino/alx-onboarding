@@ -1,0 +1,5 @@
+-Take input from user and store it in variables
+num1, num2, num3.
+-store the values in a list
+-sort the values and store the new list
+-output the sorted list
