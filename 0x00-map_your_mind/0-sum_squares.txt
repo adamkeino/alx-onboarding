@@ -1,4 +1,4 @@
--Take input from user and store it in variabler num1
+-Take input from user and store it in variables num1
 and num2.
 -square the inputs and store the new values
 	num1 = num1**2
